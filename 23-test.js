@@ -14,6 +14,15 @@ getName
 
 h1
 
-let hello = 123
-hello = 1
-hello = 3
+haha()
+function haha() {
+  let hello = 123
+  hello = 1
+  hello = 3
+}
+
+
+getName()
+function getName() {
+  // Implement
+}
